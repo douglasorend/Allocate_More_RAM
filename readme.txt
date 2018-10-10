@@ -1,5 +1,5 @@
 [hr]
-[center][color=red][size=16pt][b]ALLOCATE MORE RAM v1.2[/b][/size][/color]
+[center][color=red][size=16pt][b]ALLOCATE MORE RAM v1.3[/b][/size][/color]
 [url=http://www.simplemachines.org/community/index.php?action=profile;u=253913][b]By Dougiefresh[/b][/url] -> [url=http://custom.simplemachines.org/mods/index.php?mod=3848]Link to Mod[/url]
 [/center]
 [hr]
@@ -25,10 +25,10 @@ There are no admin settings.  To disable it, you must remove this mod.
 This mod will work on SMF 2.0 thru SMF 2.0.7.  Versions other than what is specified aren't supported, so please don't ask.
 
 [color=blue][b][size=12pt][u]Changelog[/u][/size][/b][/color]
-The changelog has been removed and can be seen at [url=http://www.xptsp.com/board/index.php?topic=4.msg129#msg129]XPtsp.com[/url].
+The changelog can be seen at [url=http://www.xptsp.com/board/free-modifications/allocate-more-ram/]XPtsp.com[/url].
 
 [color=blue][b][size=12pt][u]License[/u][/size][/b][/color]
-Copyright (c) 2015, Douglas Orend
+Copyright (c) 2015 - 2018, Douglas Orend
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
