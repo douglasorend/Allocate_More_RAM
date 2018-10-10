@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE modification SYSTEM "http://www.simplemachines.org/xml/modification">
+<modification xmlns="http://www.simplemachines.org/xml/modification" xmlns:smf="http://www.simplemachines.org/">
+	<id>dougiefresh:moreram</id>
+	<name>Attachment Extension</name>
+	<version>1.2</version>
+
+	<file name="$sourcedir/Class-Package.php">
+    <operation>
+      <search position="replace"><![CDATA[@ini_set('memory_limit', '32M');]]></search>
+			<add><![CDATA[@ini_set('memory_limit', '128M');]]></add>
+			</search>
+		</operation>
+	</file>
+</modification>
