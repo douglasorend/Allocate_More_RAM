@@ -1,5 +1,5 @@
 [hr]
-[center][color=red][size=16pt][b]ALLOCATE MORE RAM v1.0[/b][/size][/color]
+[center][color=red][size=16pt][b]ALLOCATE MORE RAM v1.1[/b][/size][/color]
 [url=http://www.simplemachines.org/community/index.php?action=profile;u=253913][b]By Dougiefresh[/b][/url] -> [url=http://custom.simplemachines.org/mods/index.php?mod=3848]Link to Mod[/url]
 [/center]
 [hr]
@@ -25,8 +25,13 @@ There are no admin settings.  To disable it, you must remove this mod.
 This mod was tested on SMF 2.0.7, but should work on SMF 2.0 and up.  SMF 1.1 is not and will not be supported, so please don't ask.
 
 [color=blue][b][size=12pt][u]Changelog[/u][/size][/b][/color]
-v1.0 - March 20th, 2014
+[quote]
+[b]v1.1 - March 20th, 2014[/b]
+o Version restriction of mod packaging to not allow it to run on SMF 2.0.8+
+
+[b]v1.0 - March 20th, 2014[/b]
 o Initial Release of the mod
+[/quote]
 
 [hr]
 [url=http://creativecommons.org/licenses/by/3.0][img]http://i.creativecommons.org/l/by/3.0/80x15.png[/img][/url]
