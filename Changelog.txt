@@ -1,0 +1,8 @@
+v1.2 - January 16th, 2015
+o License change to Simplified BSD.  No functionality change.
+
+v1.1 - March 20th, 2014
+o Version restriction of mod packaging to not allow it to run on SMF 2.0.8+
+
+v1.0 - March 20th, 2014
+o Initial Release of the mod
